@@ -1,0 +1,16 @@
+.App {
+  font-family: Arial, sans-serif;
+  display: flex;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.main-container {
+  display: flex;
+  width: 100%;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
